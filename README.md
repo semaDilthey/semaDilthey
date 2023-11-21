@@ -18,4 +18,5 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
-![Codewars](https://github.r2v.ch/codewars?user=semadilthey&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=semadilthey&stroke=%23BB432C) 
+![](https://komarev.com/ghpvc/?username=semaDilthey)
